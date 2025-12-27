@@ -1,0 +1,27 @@
+{
+  "id": "visibility",
+  "name": "AI Visibility",
+  "score": 78,
+  "insights": [
+    {
+      "id": "i1",
+      "title": "Growing AI visibility",
+      "description": "Brand appears in AI search responses for many category terms.",
+      "severity": "medium"
+    }
+  ],
+  "issues": [
+    {
+      "id": "is1",
+      "title": "Weak Gemini citations",
+      "description": "Domain is rarely cited as a primary source.",
+      "severity": "high"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "r1",
+      "text": "Publish structured, authoritative content for LLMs."
+    }
+  ]
+}

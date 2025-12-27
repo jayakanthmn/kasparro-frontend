@@ -1,0 +1,13 @@
+{
+  "id": "keywords",
+  "name": "Keyword Coverage",
+  "score": 64,
+  "insights": [],
+  "issues": [],
+  "recommendations": [
+    {
+      "id": "r3",
+      "text": "Expand non-branded content footprint."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "trust",
+  "name": "Trust / EEAT",
+  "score": 82,
+  "insights": [],
+  "issues": [],
+  "recommendations": [
+    {
+      "id": "r2",
+      "text": "Showcase author credentials and citations."
+    }
+  ]
+}

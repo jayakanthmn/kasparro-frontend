@@ -1,0 +1,1 @@
+export default function Architecture(){return <div>Inputs → InputAssembler → ContextPack → Audit Modules → Outputs</div>}
